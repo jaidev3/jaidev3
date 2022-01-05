@@ -1,4 +1,6 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="center" alt="computer" src="https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg?raw=true" width="1200" height="220" />
 <a href="https://twitter.com/#">
   <img align="left" alt="jaidev's Twitter| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -20,7 +22,7 @@ hi, i'm [Jaidev Yadav](#), a passionate full stack web developer and a freelance
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="computer" src="https://user-images.githubusercontent.com/91534937/147204209-03aec00c-00f1-44af-a7f4-4f4faa23ac99.png?raw=true" width="500" height="320" />
+ 
   
 - 💼 any freelance work? do reach, [email](#) :)
 - 💬 ask me about anything, i am happy to help;
