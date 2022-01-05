@@ -22,9 +22,7 @@ hi, i'm [Jaidev Yadav](#), a passionate full stack web developer and a freelance
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
- 
-  
-- 💼 any freelance work? do reach, [email](#) :)
+
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
