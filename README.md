@@ -41,15 +41,7 @@ JSX          8 hrs 42 mins   █████████████████
 JavaScript   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
-<!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  1000 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 169 tasks so far           
-⏳  Longest streak is 7 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
