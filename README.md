@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jaidev Yadav</h1>
 <h3 align="center">Fullstack developer interested in building new projects. Masters from Bits -Pilani, Pilani. Currently pursuing full stack web-development program(MERN stack) in Masai school. Hobbies include travelling, listening to music, playing chess etc</h3>
 
-- 🔭 I’m currently working on [Construction Project Management App]() [ app to manage small construction projects  ]
+- 🔭 I’m currently working on [Online learning platform]() [ Online learning platform, created for developers.Text-based courses with embedded coding environments help you learn without the fluff. ]
 
-- 🌱 I’m currently learning **MERN-STACK**
+- 🌱 I’m currently working on **MERN-STACK**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
