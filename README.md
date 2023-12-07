@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jaidev Yadav</h1>
+<h1 align="center">Hi 👋, I'm Jaidev</h1>
 <h3>Hello! I'm a BITS Pilani graduate and a full-stack developer passionate about crafting innovative projects. Currently, I'm immersed in software development, leveraging my skills to build robust solutions. Beyond coding, I love traveling, music, and playing chess. Eager to explore new challenges and create impactful tech solutions!</h3>
 
 - 🔭 I'm presently dedicated to enhancing an Online Learning Platform designed specifically for developers. Our platform offers text-based courses integrated with coding environments, ensuring a focused learning experience devoid of unnecessary content.
